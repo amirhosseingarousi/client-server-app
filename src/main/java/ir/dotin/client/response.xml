@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<response>
+<transactions>
+<transaction id="1" message="Successful"/>
+<transaction id="2" message="Successful"/>
+<transaction id="3" message="Successful"/>
+<transaction id="4" message="Failed"/>
+</transactions>
+</response>

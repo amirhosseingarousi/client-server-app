@@ -1,0 +1,28 @@
+
+Server read port number 8080 from config file successfully
+A new client is connected : Socket[addr=/127.0.0.1,port=50615,localport=8080]
+Assigning new thread for this client
+There are #4 deposits on server
+Transaction id: 1 done
+Transaction id: 2 done
+Transaction id: 3 done
+Insufficient balance deposit: Deposit{id='222', customer='Mehdi Akbari', balance='500', upperBound='0'}
+Transaction id: 4 Failed!!
+Server read port number 8080 from config file successfully
+A new client is connected : Socket[addr=/127.0.0.1,port=50622,localport=8080]
+Assigning new thread for this client
+There are #4 deposits on server
+Transaction id: 1 done
+Transaction id: 2 done
+Transaction id: 3 done
+Insufficient balance deposit: Deposit{id='222', customer='Mehdi Akbari', balance='500', upperBound='0'}
+Transaction id: 4 Failed!!
+Server read port number 8080 from config file successfully
+A new client is connected : Socket[addr=/127.0.0.1,port=49340,localport=8080]
+Assigning new thread for this client
+There are #4 deposits on server
+Transaction id: 1 done
+Transaction id: 2 done
+Transaction id: 3 done
+Insufficient balance deposit: Deposit{id='222', customer='Mehdi Akbari', balance='500', upperBound='0'}
+Transaction id: 4 Failed!!

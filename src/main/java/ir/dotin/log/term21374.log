@@ -1,0 +1,19 @@
+
+Terminal read server address successfully -> 127.0.0.1
+Terminal read port number 8080 from config file successfully
+Client connect to Socket[addr=/127.0.0.1,port=8080,localport=50615]
+There are #4 transactions in terminal
+Terminal send transactions to server...
+Terminal get server response: {1=Successful, 2=Successful, 3=Successful, 4=Failed}
+Terminal read server address successfully -> 127.0.0.1
+Terminal read port number 8080 from config file successfully
+Client connect to Socket[addr=/127.0.0.1,port=8080,localport=50622]
+There are #4 transactions in terminal
+Terminal send transactions to server...
+Terminal get server response: {1=Successful, 2=Successful, 3=Successful, 4=Failed}
+Terminal read server address successfully -> 127.0.0.1
+Terminal read port number 8080 from config file successfully
+Client connect to Socket[addr=/127.0.0.1,port=8080,localport=49340]
+There are #4 transactions in terminal
+Terminal send transactions to server...
+Terminal get server response: {1=Successful, 2=Successful, 3=Successful, 4=Failed}
